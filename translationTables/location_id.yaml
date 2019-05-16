@@ -189,7 +189,7 @@
 +Metalib: ref(95)
 96: branchLoc(EI_KOHAAN) # Kaakkuri   Kaakkuri
 +Kaakkuri: ref(96)
-97: branchLoc(KONVERSIO) # Webpay
+97: branchLoc(EI_KOHAAN) # Webpay
 +Webpay: ref(97)
 
 _DEFAULT_: branchLoc(KONVERSIO, KONVERSIO, KONVERSIO, KONVERSIO) #Oletusarvot / paikkaansa löytämättömät
